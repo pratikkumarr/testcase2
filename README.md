@@ -1,5 +1,5 @@
 ## Test Case 2 — File Permission Configuration
-
+## Solution in test2.txt file
 
 **Scenario:** A web server requires a properly configured `index.html` file with specific ownership and access permissions.
 
